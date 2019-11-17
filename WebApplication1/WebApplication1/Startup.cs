@@ -37,6 +37,7 @@ namespace WebApplication1
                 app.UseDeveloperExceptionPage();
             }
 
+            //What is this?
             app.UseHttpsRedirection();
 
             app.UseRouting();
